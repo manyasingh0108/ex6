@@ -18,7 +18,7 @@ export default function App() {
 
   return (
     <div className="app"> 
-      <center><h2>Product Listing - (2500032608) - Rajnish Kumar Ranjan</h2> </center>
+      <center><h2>Product Listing - (2500030961) - Manya Singh</h2> </center>
       {products.length === 0 ? (
         <p>No products available</p>
       ) : (
